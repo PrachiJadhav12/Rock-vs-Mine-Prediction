@@ -12,7 +12,4 @@ The model is trained using the features in the dataset, and the performance is e
 
 The dataset used for this project is the Sonar Data. It contains 60 features, each representing a sonar signal, and one target variable (column 60), which can either be "R" for Rock or "M" for Mine. The dataset is available as a CSV file.
 
-Example Data
-Feature 1	Feature 2	...	Feature 60	Target
-0.0368	0.0279	...	0.0052	R
-0.0134	0.0243	...	0.0047	M
+
